@@ -12,9 +12,9 @@ I'm a Mobile Application Developer 💻!
 - 💬 Ask me about Flutter Questions any time
 
 ### 🤝 Connect with me:
-<div>
+
 <a href="https://www.linkedin.com/in/ceren-ya%C5%9Fa-008913186/"><img align="left" src="https://raw.githubusercontent.com/cerenyasa97/cerenyasa97/main/images/174857.png" width="40"/></a><a href="cerenyasa97@hotmail.com"><img align="left" src="https://raw.githubusercontent.com/cerenyasa97/cerenyasa97/main/images/outlook.png" width="40"/></a><a href="https://medium.com/@cerenyasa97"><img align="left" src="https://raw.githubusercontent.com/cerenyasa97/cerenyasa97/main/images/medium.png" width="40"/></a><a href="https://www.instagram.com/ceren_yasa_26/"><img align="left" src="https://raw.githubusercontent.com/cerenyasa97/cerenyasa97/main/images/instagram.png" width="40"/></a><a href="https://twitter.com/cereny_yasa"><img align="left" src="https://raw.githubusercontent.com/cerenyasa97/cerenyasa97/main/images/twitter.png" width="40"/></a>
-</div>
+</br>
 
 ### 💼 Technologies
 
