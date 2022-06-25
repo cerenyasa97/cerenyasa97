@@ -1,7 +1,5 @@
-### Hi there 👋
-
 <h3 align="center">
-Hi there, I'm target="_blank" rel="noreferrer">Ceren</a> 👋
+Hi there, I'm Ceren</a> 👋
 </h3>
 
 <h2 align="center">
